@@ -9,9 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad1b4104-1273-4f66-80ae-60b635a938cf" name="Changes" comment="Other">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/RickAndMortyInComposeApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+    <list default="true" id="ad1b4104-1273-4f66-80ae-60b635a938cf" name="Changes" comment="Add structures packages, setup hilt, add repositories and client Apollo">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/domain/usecase/GetCharactersUseCase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/domain/usecase/GetSingleCharacterUseCase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/di/UseCaseModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/paging/CharactersPaging.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/viewmodel/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +70,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="GraphQL File" />
+        <option value="Kotlin Object" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -262,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688791949308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add structures packages, setup hilt, add repositories and client Apollo">
+      <created>1688793390858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688793390858</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +293,7 @@
     <MESSAGE value="Configure proyect" />
     <MESSAGE value="Add" />
     <MESSAGE value="Other" />
-    <option name="LAST_COMMIT_MESSAGE" value="Other" />
+    <MESSAGE value="Add structures packages, setup hilt, add repositories and client Apollo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add structures packages, setup hilt, add repositories and client Apollo" />
   </component>
 </project>
