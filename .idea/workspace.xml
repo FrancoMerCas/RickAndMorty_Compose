@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad1b4104-1273-4f66-80ae-60b635a938cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/graphql/com/example/rickandmortyincompose/CharacterInfo.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/graphql/com/example/rickandmortyincompose/CharacterList.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/graphql/com/example/rickandmortyincompose/schema.sdl" afterDir="false" />
+    <list default="true" id="ad1b4104-1273-4f66-80ae-60b635a938cf" name="Changes" comment="Add Schema and Query to GraphQL">
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +70,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="02_Schema_Query_GraphQL" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
