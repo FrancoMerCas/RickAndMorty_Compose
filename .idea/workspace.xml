@@ -9,25 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad1b4104-1273-4f66-80ae-60b635a938cf" name="Changes" comment="Add structures packages, setup hilt, add repositories and client Apollo">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/screens/CharacterListScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/screens/DetailsScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/screens/components/LoadingComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/screens/components/SnackbarComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/utils/Color.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Rick_and_Morty_in_Compose.app.unitTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/rickandmortyincompose/ui/theme/Color.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ad1b4104-1273-4f66-80ae-60b635a938cf" name="Changes" comment="Fix Color" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +72,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="05_Screen_Navigate" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -286,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688793390858</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add screens, functions, navigate and charge info">
+      <created>1688796125851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688796125851</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +295,9 @@
     <MESSAGE value="Add" />
     <MESSAGE value="Other" />
     <MESSAGE value="Add structures packages, setup hilt, add repositories and client Apollo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add structures packages, setup hilt, add repositories and client Apollo" />
+    <MESSAGE value="Add screens, functions, navigate and charge info" />
+    <MESSAGE value="Commit All" />
+    <MESSAGE value="Fix Color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Color" />
   </component>
 </project>
